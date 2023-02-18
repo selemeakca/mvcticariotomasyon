@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="sumeyyeakca.somee.com" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\ER\ BİLİŞİM\\Source\\Repos\\ticaretotomasyonu\\ticaretotomasyonu\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\ER\ BİLİŞİM\\Source\\Repos\\ticaretotomasyonu\\ticaretotomasyonu\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="Context-Web.config Connection String" description="" value="data source=DESKTOP-2U808K4\SQLEXPRESS;initial catalog=eticaret;integrated security=True;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ER\ BİLİŞİM\\Source\\Repos\\ticaretotomasyonu\\ticaretotomasyonu\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Context']/@connectionString" />
+  </parameter>
+</parameters>
